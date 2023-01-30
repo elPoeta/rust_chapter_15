@@ -1,2 +1,5 @@
-# rust_chapter_15
-Rust Chapter XV
+# Rust Chapter XV
+
+### Reference
+
+https://doc.rust-lang.org/stable/book/ch15-00-smart-pointers.html
